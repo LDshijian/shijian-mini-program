@@ -1,3 +1,6 @@
 <!--pages/about/about.wxml-->
 <text class="title">时间</text>
 <button size="mini">提交</button>
+
+<view>2.知识点2</view>
+<view>呵呵呵</view>
